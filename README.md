@@ -27,3 +27,20 @@ Built using **React, React Router, and Bootstrap**.
 
 ## 📂 Project Structure
 
+product-info-app/
+│── src/
+│ ├── assets/ # Images
+│ ├── components/ # Reusable components (ProductCard)
+│ ├── data/ # products.json (sample data)
+│ ├── pages/ # Home.jsx, ProductDetails.jsx
+│ ├── App.jsx # Routes setup
+│ ├── main.jsx # Entry point
+│ └── index.css # Global styles
+│
+│── public/ # Public assets (if needed)
+│── package.json
+│── vite.config.js
+│── README.md
+
+
+
