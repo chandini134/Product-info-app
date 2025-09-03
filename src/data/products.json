@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Apple",
+    "category": "Fruit",
+    "image": "OIP.jpeg",
+    "features": ["Fresh", "Crisp", "Sweet"],
+    "nutrition": { "Calories": 52, "Carbs": "14g", "Fiber": "2.4g" },
+    "traceability": "Farm: Green Valley, Andhra Pradesh",
+    "reviews": ["Very fresh!", "Loved the quality"]
+  },
+  {
+    "id": 2,
+    "name": "Brown Rice",
+    "category": "Grain",
+    "image": "OIP1.jpeg",
+    "features": ["Organic", "Rich in fiber"],
+    "nutrition": { "Calories": 111, "Carbs": "23g", "Fiber": "1.8g" },
+    "traceability": "Farm: Sunrise Fields, Telangana",
+    "reviews": ["Healthy and clean", "Nice packaging"]
+  },
+  {
+    "id": 3,
+    "name": "Almonds",
+    "category": "Nut",
+    "image": "OIP2.jpeg",
+    "features": ["Crunchy", "Rich in Vitamin E", "High Protein"],
+    "nutrition": { "Calories": 579, "Carbs": "22g", "Fiber": "12g" },
+    "traceability": "Farm: Desert Harvest, Rajasthan",
+    "reviews": ["Good quality nuts", "Very tasty and fresh"]
+  },
+  {
+    "id": 4,
+    "name": "Spinach",
+    "category": "Vegetable",
+    "image": "OIP3.jpeg",
+    "features": ["Leafy green", "Rich in Iron", "Organic"],
+    "nutrition": { "Calories": 23, "Carbs": "3.6g", "Fiber": "2.2g" },
+    "traceability": "Farm: Riverbank Farms, Karnataka",
+    "reviews": ["Very clean and fresh", "Best spinach I bought"]
+  }
+]
