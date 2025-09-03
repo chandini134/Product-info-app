@@ -28,11 +28,17 @@ Built using **React, React Router, and Bootstrap**.
 ## 📂 Project Structure
 
 product-info-app/
+
 │── src/
+
 │ ├── assets/ # Images
+
 │ ├── components/ # Reusable components (ProductCard)
+
 │ ├── data/ # products.json (sample data)
+
 │ ├── pages/ # Home.jsx, ProductDetails.jsx
+
 │ ├── App.jsx # Routes setup
 │ ├── main.jsx # Entry point
 │ └── index.css # Global styles
