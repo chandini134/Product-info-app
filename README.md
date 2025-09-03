@@ -1,59 +1,43 @@
 # 🌱 Product Info App
 
-A React + Vite application that displays organic products with details such as features, nutrition, traceability, and customer reviews.  
-Built using **React, React Router, and Bootstrap**.
+A simple and responsive **React + Vite application** to display product details such as features, nutrition, traceability, and reviews.  
+Built using **React Router**, **Bootstrap**, and deployed on **Vercel**.
 
 ---
 
-## 🚀 Features
-- 📦 Product listing page with attractive cards  
-- 🔍 Product details page with:
-  - Features list
-  - Nutrition info table
-  - Traceability source
-  - Customer reviews
-- 🛒 Add to Cart button (placeholder)
-- 🎨 Fully styled with **React Bootstrap**
+## 🚀 Live Demo
+🔗 [Click here to view the app](https://product-info-app1.vercel.app/)
 
 ---
 
-## 🛠 Tech Stack
-- **React + Vite** ⚡
-- **React Router** (for navigation)
-- **Bootstrap 5 / React-Bootstrap** (for UI)
-- **JSON Data** for products
+## 📂 Repository
+🔗 [GitHub Repository](https://github.com/chandini134/Product-info-app)
 
 ---
 
-## 📂 Project Structure
+## ✨ Features
+- 🛒 Home page with product listing  
+- 📖 Product details page with:
+  - Product image  
+  - Features  
+  - Nutrition facts  
+  - Traceability  
+  - Customer reviews  
+- 📱 Responsive UI using Bootstrap  
 
-product-info-app/
+---
 
-│── src/
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite  
+- **Styling:** Bootstrap  
+- **Routing:** React Router  
+- **Deployment:** Vercel  
 
-│ ├── assets/ # Images
+---
 
-│ ├── components/ # Reusable components (ProductCard)
+## 📦 Setup Instructions
 
-│ ├── data/ # products.json (sample data)
-
-│ ├── pages/ # Home.jsx, ProductDetails.jsx
-
-│ ├── App.jsx # Routes setup
-
-│ ├── main.jsx # Entry point
-
-│ └── index.css # Global styles
-
-│
-│── public/ # Public assets (if needed)
-
-
-│── package.json
-
-│── vite.config.js
-
-│── README.md
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chandini134/Product-info-app.git
+   cd Product-info-app
